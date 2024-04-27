@@ -28,6 +28,3 @@ The "Backup and Streaming Server" repository serves as a comprehensive solution 
 
 - Community Engagement and Support: Foster a community around the repository by encouraging collaboration, sharing insights, and providing support through forums, mailing lists, or online communities. Promote active participation and contributions from users to enhance the repository's capabilities and address diverse use cases.
 
-<br>
-
-By leveraging the "Backup and Streaming Server" repository, Linux system administrators can streamline backup operations, enhance data protection measures, and facilitate seamless media streaming, thereby ensuring the reliability, security, and accessibility of critical data and content within their infrastructure.
