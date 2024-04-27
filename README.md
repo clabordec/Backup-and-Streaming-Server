@@ -3,7 +3,7 @@ The "Backup and Streaming Server" repository serves as a comprehensive solution 
 
 <br>
 
-## Key Features:
+### Key Features and Components:
 
 - Backup Automation: Implement automated backup routines for critical system files, databases, and user data to ensure data integrity and disaster recovery preparedness. Utilize tools like rsync, Bacula, or Duplicity to perform incremental, differential, or full backups according to defined schedules.
 
