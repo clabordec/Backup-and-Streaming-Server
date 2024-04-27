@@ -1,5 +1,3 @@
-# Backup and Streaming Server
-
 ## Introduction:
 The "Backup and Streaming Server" repository serves as a comprehensive solution for Linux system administrators to implement and manage backup and streaming functionalities within their infrastructure. The repository combines robust backup mechanisms with seamless media streaming capabilities, providing a versatile platform for data protection and content delivery.
 
