@@ -23,6 +23,9 @@ The "Backup and Streaming Server" repository serves as a comprehensive solution 
 - Documentation and Best Practices: Provide comprehensive documentation outlining installation procedures, configuration steps, and best practices for maintaining the backup and streaming server environment. Include troubleshooting guides and FAQs to assist administrators in resolving common issues effectively.
 
 
+### Project Goals
+
+
 - Customization and Extensibility: Design the repository with modularity and extensibility in mind, allowing administrators to customize configurations, add new backup targets, or integrate additional streaming functionalities based on specific requirements or evolving needs.
 
 
