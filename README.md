@@ -31,3 +31,9 @@ The "Backup and Streaming Server" repository serves as a comprehensive solution 
 <br>
 
 ### Project Goals
+
+<br>
+
+Linux Distribution:
+<br>
+Version:
